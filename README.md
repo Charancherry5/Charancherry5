@@ -9,10 +9,10 @@ I'm M Charan, a passionate data scientist with a strong background in machine le
 ## Skills
 
 - Python
-- SQL
+- MySQL
 - Machine Learning
 - Deep Learning (ANNs, CNNs)
-- Data Visualization (Matplotlib, Seaborn, Plotly)
+- Data Visualization (Power BI, Matplotlib, Seaborn, Plotly)
 - Data Preprocessing and Cleaning (Pandas)
 - Statistical Analysis (Numpy)
 
