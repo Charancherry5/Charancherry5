@@ -32,8 +32,8 @@ Built a real-time weather monitoring system using Raspberry Pi and machine learn
 
 Feel free to reach out to me or connect with me on LinkedIn and E-mail.
 
-charanmandi970@gmail.com
-https://www.linkedin.com/in/m-charan-28108a1b6/
+- charanmandi970@gmail.com
+- https://www.linkedin.com/in/m-charan-28108a1b6/
 
 
 ---
