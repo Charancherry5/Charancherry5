@@ -38,4 +38,4 @@ Feel free to reach out to me or connect with me on LinkedIn and E-mail.
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio! feel free to contact me😊.....!
